@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, Redux and Deep Learning**
 
-- 💬 Ask me about **react, angular, Django**
+- 💬 Ask me about **react, Swift, SwiftUI, UiKit, ArKit, RealityKit, CreateML, Django**
 
 - 📫 How to reach me **singhshashnank3084@gmail.com**
 
